@@ -3,8 +3,9 @@ Title: Retrieval, Cleaning and Plotting of EDEN Data
 Description: Functions are provided to query the EDEN database, clean the
     output, and produce plots.
 Version: 0.1-2
-Author: Joseph Stachelek <stachel2@msu.edu>
-Maintainer: Joseph Stachelek <stachel2@msu.edu>
+Authors@R: c(
+    person("Joseph", "Stachelek", role = c("aut","cre"), email = "stachel2@msu.edu")
+  )
 Depends:
     R (>= 3.0.2)
 Imports:
